@@ -2,7 +2,7 @@ import kids_hive_logo from '../../assets/kids_hive.jpg';
 import gamanac_logo from '../../assets/gamanac.jpg';
 import nowhere_logo from '../../assets/nowhere_logo.png';
 import video_logo from '../../assets/video_edit.jpg';
-import illustrations from '../../assets/PS_il.png';
+import illustrations from '../../assets/PS_L.png';
 import git_logo from '../../assets/git_logo.png';
 import Travel_web from '../../assets/Travel_web.png'
 import arrow from '../../assets/Arrow.png'
