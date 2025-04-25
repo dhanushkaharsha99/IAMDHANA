@@ -1,8 +1,8 @@
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Landing from "./pages/Landing";
-import Demo from "./pages/Demo"; // Fixed path
+import Demo from "./Pages/Demo"; // Fixed path
 import ScrollToTop from "./ScrollToTop";
+import Landing from "./Pages/Landing";
 
 function App() {
   return (

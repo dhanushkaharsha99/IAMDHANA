@@ -1,3 +1,4 @@
+import React from "react";
 import Home from "../../components/Home/Home";
 import Skills from "../../components/Skills/Skills";
 import Services from "../../components/Services/Services";
